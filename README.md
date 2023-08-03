@@ -357,6 +357,7 @@ This list is a collection of the best Deno modules and resources.
 - dpm
   - [BoltDoggy/deno#dpm](https://github.com/BoltDoggy/deno#dpm) - Deno Package Manager, install global command for deno. like denoget.
   - [dpmland/dpm](https://github.com/dpmland/dpm) - Deno Package Manager, a NPM | Yarn Experience for Deno
+- [dsbuild](https://github.com/mattvr/dsbuild) - Write Deno code targeting web/browsers.
 - dvm
   - [asdf-community/asdf-deno](https://github.com/asdf-community/asdf-deno.git
 ) - Deno plugin for [asdf](https://asdf-vm.com/)
